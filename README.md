@@ -60,9 +60,8 @@ Contact
 For any inquiries or feedback, please reach out to:
 
 Name: Your Name
-Email: your.email@example.com
-GitHub: Your GitHub Profile
-
+Email: srikrishnamishra006@gmail.com
+GitHub: https://github.com/SriKrishnaMishra
 ### Key Features of the README
 - **Structured Layout**: Easy navigation with a table of contents.
 - **Clear Sections**: Each section provides concise information about the project.
